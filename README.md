@@ -10,7 +10,7 @@
 - - introductory computer vision projects
 - 
 - 📫 How to reach me ...
-- - through my LinkedIn: https://www.linkedin.com/in/brenda-huppenthal/
+- - huppenthal.brenda@gmail.com
 
 
 <!---

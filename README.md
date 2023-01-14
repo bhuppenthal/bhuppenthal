@@ -2,12 +2,11 @@
 - 👀 I’m interested in ...
 - - computer vision
 - 🌱 I’m currently learning ...
-- - probability, as a prerequisite for statistics
-- - operating systems
-- - analysis of algorithms
-- - graphics
+- - machine learning theory
+- - software development design patterns
+- - databases
 - 💞️ I’m looking to collaborate on ...
-- - introductory computer vision projects
+- - computer vision projects
 - 
 - 📫 How to reach me ...
 - - huppenthal.brenda@gmail.com

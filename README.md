@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @bhuppenthal
-- 👀 I’m interested in ...
-- - computer vision
 - 🌱 I’m currently learning ...
-- - machine learning theory
-- - software development design patterns
-- - databases
+- - parallel programming
+- - operating systems
 - 💞️ I’m looking to collaborate on ...
 - - computer vision projects
+- - OS projects
 - 
 - 📫 How to reach me ...
 - - huppenthal.brenda@gmail.com
